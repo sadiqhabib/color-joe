@@ -1,0 +1,17 @@
+{
+  "name": "color-joe",
+  "description": "colorjoe",
+  "main": ["colorjoe.js","colorjoe.css"],
+  "authors": [
+    "MIT"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
