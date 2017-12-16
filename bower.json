@@ -1,6 +1,7 @@
 {
   "name": "color-joe",
   "description": "colorjoe",
+  "version":"0.0.1",
   "main": ["colorjoe.js","colorjoe.css"],
   "authors": [
     "MIT"
